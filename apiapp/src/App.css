@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  background-color: blue;
+}
+.nav {
+  background-color: rgb(52, 26, 144);
+  height: 40px;
+}
+h1 {
+  margin: 0px;
+  background-color: black;
+  color: white;
+  font-size: 30px;
+  font-family: sans-serif;
+  padding-top: 10px;
+}
